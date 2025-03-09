@@ -1,7 +1,20 @@
-# TooWize
+# TooWize: a Cross platform app for creatign and discovering funny quotes
+Built on Flutter with Flutterflow
 
-A new Flutter project.
+## Technical Challenges
+Secure authentication
+User Data store
+Content Moderation
+User automations
+Notifications
+Real time content updates
 
-## Getting Started
+## Features
+Create and publish new quotes
+Quote of the day delivered daily
+Like and comment on quotes
+Access quotes of varying themes
+Search and find other users
+Follow users and block other user interactions
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+
