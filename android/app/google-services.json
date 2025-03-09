@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "941103749604",
+    "project_id": "toowize-e583e",
+    "storage_bucket": "toowize-e583e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941103749604:android:14958458bf32ce72244ff1",
+        "android_client_info": {
+          "package_name": "com.mycompany.toowize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941103749604-9iokjcqopvjv85a7naigdkve4gk55srr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.toowize",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "941103749604-s2ommbg4o5vbbgbdufbol63bvei6ha67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.toowize",
+            "certificate_hash": "3b5c332068c7cbff3bd218f070bdda90a5147261"
+          }
+        },
+        {
+          "client_id": "941103749604-hklat1hi0ofdgq7q8ebbhhjqprr5dka5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCchYmOJki8jsFwcpSqpwvjTG3C41aqAPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941103749604-49d2f819lfspr0tr72g9dafkg1i0eukn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941103749604-0h5f0op0omtv9m9pojj10qik83seonsp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.toowize"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941103749604:android:b5fe3023bc90c0f5244ff1",
+        "android_client_info": {
+          "package_name": "com.toowize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941103749604-9mlcuabrd44iotqcpedrjafqdp2ehn3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toowize",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "941103749604-hklat1hi0ofdgq7q8ebbhhjqprr5dka5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCchYmOJki8jsFwcpSqpwvjTG3C41aqAPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941103749604-49d2f819lfspr0tr72g9dafkg1i0eukn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941103749604-0h5f0op0omtv9m9pojj10qik83seonsp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.toowize"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
